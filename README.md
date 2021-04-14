@@ -9,7 +9,7 @@ Jeff Scott from the Lamden Developer team is the creator.
 ### How can I contact the team?
 They are available through Lamden channels:  
 Contact us on [Telegram](https://t.me/lamdenchat)   
-Read, Like and retweet us on [Twitter](https://twitter.com/LamdenTau)   
+Read, like and retweet us on [Twitter](https://twitter.com/LamdenTau)   
 Check out our articles on [Medium](https://medium.com/@Lamden)
 
 ### Do I need TAU to use the site?
