@@ -9,8 +9,8 @@ Jeff Scott from the Lamden Developer team is the creator.
 ### How can I contact the team?
 They are available through Lamden channels:  
 Contact us on [Telegram](https://t.me/lamdenchat)   
-Like and retweet us on [Twitter](https://twitter.com/LamdenTau)   
-Read our articles on [Medium](https://medium.com/@Lamden)
+Read, Like and retweet us on [Twitter](https://twitter.com/LamdenTau)   
+Check out our articles on [Medium](https://medium.com/@Lamden)
 
 ### Do I need TAU to use the site?
 Technically... no, but let me explain. You can browse the art and can also create art and it will save locally to your browser storage.  However if you want to do any on-chain actions (minting NFTS, buying, liking, selling etc) you will need some TAU.  So if you feel like having a draw first - give it a try.
