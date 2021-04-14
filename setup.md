@@ -57,6 +57,6 @@ OK now we are done. You have setup your account in the Lamden Wallet, and you sh
 ![sep](./static/Add_funds2.png ':size=1000')
 3. On the next screen, click *Confirm Transaction*, you should then receive a pop-up notification that the transaction was successful and the transmission cost in stamps. Select *Home*.
 
-4. Select *Accounts* in the top left of your screen in the Lamden wallet. You will see the RocketSwap account now has the TAU deposited.
+4. Select *Accounts* in the top left of your screen in the Lamden wallet. You will see the Pixel Whale account now has the TAU deposited.
 
 **Thats it! You have now deposited TAU to your Pixel Whale account.**
