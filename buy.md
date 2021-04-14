@@ -2,8 +2,8 @@
 This section will cover the basics for the art lovers out there seeking pixel art — so buying, browsing, sharing and supporting (liking) art.
 
 Let’s get the housekeeping out of the way. Hopefully you will have followed some of the other sections and you are already setup and have funds, if not:  
-* Getting Started — guide here  
-* Add Funds — guide here  
+* Getting Started — [guide here](setup.md#Getting-Setup)    
+* Add Funds — [guide here](setup.md#Adding-Funds)    
 
 OK, lets open Pixel Whale and click on **FOR SALE**. This will provide a list of art for sale (including your own if you have some).  
 5 basic options are available on each piece of art:  
