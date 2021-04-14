@@ -12,7 +12,7 @@ OK, lets open Pixel Whale and click on **FOR SALE**. This will provide a list of
 >[!Note]
 > Each of these options is on-chain — this means performing an action will commit something to the Lamden Blockchain and will also carry a small transaction fee.  
 
-    Off-chain options:    
+  Off-chain options:    
 * We can click the artist icon to look at all their work (top left of each picture)   
 * We can click on the current owner icon (beside artist icon), to look at the owners art collection   
 * Also, clicking on the art itself will reveal details about the art (this has no TX fee)   
