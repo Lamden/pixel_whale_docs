@@ -1,5 +1,5 @@
 # Getting Setup
-The setup allows you to get off on the right foot in Pixel Whale, it is intented for first time users of Pixel Whale to help walk you through how to connect a Lamden Wallet and add funds so you can get started using the app!
+The setup allows you to get off on the right foot in Pixel Whale, it is intended for first time users of Pixel Whale to help walk you through how to connect a Lamden Wallet and add funds so you can get started using the app!
 ### Lets cover off the basics of what is needed before we start
 Whether you're here as a purveyor of fine pixel art to add to your NFT collection, or a budding artist looking to fulfil your pixel-y dreams, you are going to need some Lamden TAU.  
 Pixel Whale saves all your brilliant art 'on chain' - that is to say, when you click create, it is committed forevermore to the Lamden Blockchain as an NFT, and if you set a Buy Price - it is immediately available to buy automatically through smart contracts (nifty huh!). To make all this wizardry work we need TAU. Here are some estimates - to save your art you need around 3–5 TAU, and another 1 TAU to set a price.  
