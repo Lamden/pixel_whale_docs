@@ -8,15 +8,17 @@ Add Funds - guide here
 1. OK, lets open Pixel Whale and click on CREATE. This is a very intuitive layout so I will run you through the basics based on the picture below:  
 ![Createdoc1](./static/create1.png ':size=1000')    
 
-    A: Preview Window - for those creating animated GIFs this is very handy as it shows what your end creation will look like.   
-    B: Animation speed - as it says, a great feature to adjust the frames of your animations (have a play and find the right speed for your animation in the preview window).   
-    C: Control Panel, allowing you to start new art (autosaved old), a quick clear or deletion of the current frame or wiping your whole project to start again. It also contains to MINT NFT button (see instructions below when you are finished)   
-    D: A handy autosave - off chain so it is free! Create projects, stop, start others, load old projects! Brilliant!   
-    E: Animation frames - allows you to add extra frames (up to 8) - it copies the previous frame when you do it, so that is a cool feature to save time   
-    F: 25x25 drawing area - get crazy!   
-    G: Drawing color selection - left or right click the palette below it to select colors for each mouse button   
-    H: Drawing tools - all you need to easy pixel art, a fill tool and a brush tool including brush size below - give it a try!   
-That is basically it, get creative! Try different things because it is free, none of the changes you make or extra frames you add cost you anything, it is all 'off-chain' until you click MINT NFT.   
+    1A: Preview Window - for those creating animated GIFs this is very handy as it shows what your end creation will look like.   
+    1B: Animation speed - as it says, a great feature to adjust the frames of your animations (have a play and find the right speed for your animation in the preview window).   
+    1C: Control Panel, allowing you to start new art (autosaved old), a quick clear or deletion of the current frame or wiping your whole project to start again. It also contains to MINT NFT button (see instructions below when you are finished)   
+    1D: A handy autosave - off chain so it is free! Create projects, stop, start others, load old projects! Brilliant!   
+    1E: Animation frames - allows you to add extra frames (up to 8) - it copies the previous frame when you do it, so that is a cool feature to save time   
+    1F: 25x25 drawing area - get crazy!   
+    1G: Drawing color selection - left or right click the palette below it to select colors for each mouse button   
+    1H: Drawing tools - all you need to easy pixel art, a fill tool and a brush tool including brush size below - give it a try!   
+
+>[!Tip]
+> That is basically it, get creative! Try different things because it is free, none of the changes you make or extra frames you add cost you anything, it is all 'off-chain' until you click MINT NFT.   
 
 2. When you are happy with your creation and want to 'save' it permanently to the Lamden Blockchain, click **MINT NFT**.   
 
