@@ -1,4 +1,4 @@
-# Getting Setup
+## Setup Requirements
 The setup allows you to get off on the right foot in Pixel Whale, it is intended for first time users of Pixel Whale to help walk you through how to connect a Lamden Wallet and add funds so you can get started using the app!
 ### Lets cover off the basics of what is needed before we start
 Whether you're here as a purveyor of fine pixel art to add to your NFT collection, or a budding artist looking to fulfil your pixel-y dreams, you are going to need some Lamden TAU.  
@@ -8,9 +8,9 @@ If you are buying, there is a small transaction cost (1 TAU), and of course the 
 * If you don't have any TAU, you can get buy some from [TXBIT here](https://txbit.io/).   
 * You will need to transfer your TAU from TxBit over to your Lamden Wallet.   
    
-That's it lets get setup!   
+That's it, lets get started!   
 
-## Getting Started
+## Getting Setup
 
 1. Access your Lamden web wallet and make sure you have some TAU in an account.  
 >[!Tip]
