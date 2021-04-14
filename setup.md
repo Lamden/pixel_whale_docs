@@ -21,7 +21,7 @@ That's it lets get setup!
 3. For first time users, it should automatically prompt you to connect your Lamden wallet, if not, click the Connect Wallet at the top right of the screen.  
 
 4. You should get a pop-up from the Lamden Wallet for Linked Account Creation. This is going to create an account in our Lamden Wallet just for Pixel Whales (this is a Lamden security feature to restrict dApp access).  
-![setup](./static/Setupdocs.png ':size=550')
+![setup](./static/Setupdocs.png ':size=400')
 
     4A. The first pop-up will just explain what I have mentioned above. Click **NEXT** once you have read it.   
     4B. Second pop-up allows you to send TAU from one of you accounts to the Pixel Whales account. I highly recommend you do this as part of this step (otherwise you will have to do it manually later). Input an amount to transfer, then click **YES**.   
