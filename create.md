@@ -1,9 +1,10 @@
 # Creating a Masterpiece
 
 This guide is going to be brief and short. Bottom line is we are going to create something in Pixel Whale and list it for sale!
-Let's get the housekeeping out of the way. Hopefully you will have followed some of the other articles and you are already setup and have funds, if not:
-Getting Started - guide here
-Add Funds - guide here
+
+Let’s get the housekeeping out of the way. Hopefully you will have followed some of the other sections and you are already setup and have funds, if not:  
+* Getting Started — [guide here](setup.md#Getting-Setup)    
+* Add Funds — [guide here](setup.md#Adding-Funds)    
 
 1. OK, lets open Pixel Whale and click on CREATE. This is a very intuitive layout so I will run you through the basics based on the picture below:  
 ![Createdoc1](./static/create1.png ':size=1000')    
