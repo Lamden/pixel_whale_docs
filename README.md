@@ -16,7 +16,7 @@ Check out our articles on [Medium](https://medium.com/@Lamden)
 Technically... no, but let me explain. You can browse the art and can also create art and it will save locally to your browser storage.  However if you want to do any on-chain actions (minting NFTS, buying, liking, selling etc) you will need some TAU.  So if you feel like having a draw first - give it a try.
 
 ### I found a bug!
-Submit an [issue](https://github.com/Lamden/pixel_whale_docs/issues) on Github - That way you can check to see if anyone else has reported it and this is also the best way to ensure the developers sees it.
+Submit an [issue](https://github.com/Lamden/pixel_whale_docs/issues) on Github - That way you can check to see if anyone else has reported it and this is also the best way to ensure the developer sees it.
 
 ### Why no $WHALE token?
 There was no need to create a whale token, Lamden TAU serves the same purpose — as a store of value and handles all NFT storage on-chain.
