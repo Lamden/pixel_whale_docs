@@ -1,67 +1,37 @@
-<img src="./static/RS_Logo.png" height=400 width=400></img>
+![whaledocs](./static/pixelwhaledocs.png ':size=800')
 
-### What is Rocketswap ?
+### What is Pixel Whale?
+Pixel Whale brings together pixel art creators and buyers on a simple platform fully integrated with the [Lamden Blockchain](https://www.lamden.io). It allows everyone to browse art and artists to easily create NFTs with listing options for buyers to purchase on the marketplace.
 
-[Rocketswap](https://rocketswap.exchange) is a community developed AMM (Automated Market Maker) which resides on the [Lamden Blockchain](https://www.lamden.io).
+### Who are the team behind Pixel Whale?
+Jeff Scott from the Lamden Developer team is the creator.
 
-The Rocketswap application can be found here @ https://rocketswap.exchange
+### How can I contact the team?
+They are available through Lamden channels:  
+Contact us on [Telegram](https://t.me/lamdenchat)   
+Read, like and retweet us on [Twitter](https://twitter.com/LamdenTau)   
+Check out our articles on [Medium](https://medium.com/@Lamden)
 
-### What is an Automated Market Maker ?
-
-An Automated Market Maker is a system for exchanging assets which was popularized first by Uniswap and differs from traditional exchange systems in a few fundamental ways.
-
-AMM's have two types of users :
-
-#### Liquidity Providers
-Liquidity Providers (LP's) earn fees by depositing liquidity (both assets of a trading pair in equal value) to a pair's liquidity pool.
-
-#### Market Participants
-Market Participants buy and sell assets in the market, their experience is identical to that of a traditional exchange user.
-
-### The Team
-
-We are a small team of engineers, with 40+ years of experience, committed to pushing the envelope of what is possible in the blockchain space, delivering value to the ecosystem as a whole and to our users.
-We built Rocketswap to strengthen and foster a growing Lamden ecosystem. 
-
-Rocketswap will achieve this goal by creating positive feedback loops across projects, allowing all Lamden assets to find fair market value.
-
-#### How can I contact the Team ?
-
-Contact us on [Telegram](https://t.me/rocketswap)   
-Like and retweet us on [Twitter](https://twitter.com/RSwapOfficial)   
-Read our articles on [Medium](https://medium.com/rswp-io)   
-
-### What is Lamden?
-
-Lamden is the performant Python-Based blockchain platform that makes using and creating the next generation of dApps easy for everyone. With distributed governance and rewards for smart contract developers, Lamden democratises access to the blockchain. More info @ www.lamden.io
-
-### How can I get RSWP?
-RSWP will be distributed by staking Mainnet TAU on Launch Date (23th March 2021). This staking pool will be live indefinitely.
-
-Shortly afterwards, the RSWP/TAU LP farming pool will be opened, providing a higher RSWP reward to compensate for the unfortunate realities of impermanent loss.
-
-### RSWP Token Information
-
-* **Supply:** 1,200,000,000   
-* **Price:** To be set by market   
-* **Distribution:** TAU Staking & market LP Staking   
-* **Emission Rate:** % of total on a yearly basis. 30, 20, 15, 10, 7, 5, 4, 3, 2, 2, 1, 1.   
-* **Dev Reward:** 10% of emissions   
-* **Deflationary Mechanisms:** Burn on payment of RSWP transaction fee.   
-
-### What does RSWP do?
-
-RSWP is the governance token of the Rocketswap exchange. Paying fees with RSWP on Rocketswap will reduce fees by 25%. Additional discounts also apply depending on how much RSWP you are holding in your fuel tank (check the guide section on staking $RSWP).
+### Do I need TAU to use the site?
+Technically... no, but let me explain. You can browse the art and can also create art and it will save locally to your browser storage.  However if you want to do any on-chain actions (minting NFTS, buying, liking, selling etc) you will need some TAU.  So if you feel like having a draw first - give it a try.
 
 ### I found a bug!
+Submit an [issue](https://github.com/Lamden/pixel_whale_docs/issues) on Github - That way you can check to see if anyone else has reported it and this is also the best way to ensure the developer sees it.
 
+### Why no $WHALE token?
+There was no need to create a whale token, Lamden TAU serves the same purpose — as a store of value and handles all NFT storage on-chain.
 
-Submit an [issue](https://github.com/cloakdkiller/rocketswap/issues) on Github - That way you can check to see if anyone else has reported it and this is also the best way to ensure one of the developers sees it.
+### What fees apply?
+All transactions are performed through smart contracts on the Lamden Blockchain. Pixel Whale takes no fee for any transactions on the site.
 
-### How can I get Mainnet TAU?
+### But… how does Pixel Whale pay to keep the lights on?
+Pixel Whale was a passion project and one enjoyed by the community in it’s original iteration on Lamden test network (originally called Pixel Frames). Pixel Whale generates a small income stream through feedback mechanisms provided by Lamden to support early developers who use the Lamden network.
 
-Mainnet TAU is available at Txbit
+### There is a watermark on the art!
+The watermark is placed on art that you don’t own and the removal is a special perk for owners of that particular piece of art. If there is a watermark on something you own, perhaps it was sold to someone else before you posted the image. Check to make sure you still own the art.
 
-### My questions were not answered by this doc!
+### My share link does not work!
+Check to make sure you still own the art. The link is made invalid after every sale of the art.
 
-First, good work for reading to the bottom. Second, this document is in it’s infancy and relies on good people just like you to help us if you spot an error or something missing — it will get better with time with your help. If your answer was not here, talk to the good people in Rocketswap Telegram (use the code word — cowsgomoo then we know you read this doc).
+### I have more questions!
+First, thank you for reading this whole FAQ. Second, this FAQ only gets better by you asking questions. If we did not answer your question in the rest of this document, ask in telegram.

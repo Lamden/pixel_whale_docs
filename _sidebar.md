@@ -1,4 +1,4 @@
 * [Introduction](/)
-* [Guides](guides.md)
-* [Fees & Discounts](fee_discount.md)
-* [Creating Tokens](token.md)
+* [Getting Setup](setup.md)
+* [Creating a Masterpiece](create.md)
+* [Buying, Browsing, Sharing and Liking](buy.md)
