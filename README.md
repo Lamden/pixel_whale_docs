@@ -1,4 +1,4 @@
-![whaledocs](./static/pixelwhaledocs.png ':size=800')
+![whaledocs](./static/full_logo_banner.png ':size=800')
 
 ### What is Pixel Whale?
 Pixel Whale brings together pixel art creators and buyers on a simple platform fully integrated with the [Lamden Blockchain](https://www.lamden.io). It allows everyone to browse art and artists to easily create NFTs with listing options for buyers to purchase on the marketplace.
